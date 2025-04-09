@@ -22,9 +22,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/conal-cassidy-cc2002" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="conal-cassidy-cc2002" height="30" width="40" /></a>
   <a href="https://www.facebook.com/conal.cassidy.9" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="conal.cassidy.9" height="30" width="40" /></a>
@@ -34,6 +31,9 @@
    <a href="https://x.com/conalcassidy13" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="conalcassidy13" height="30" width="40" /></a>
+    <a href="www.linkedin.com/in/conal-cassidy-cc2002" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="conal-cassidy-cc2002" height="30" width="40" /></a>
 </p>
 
 <!---
